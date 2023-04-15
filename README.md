@@ -1,7 +1,7 @@
 # csc_lab10
 
 Instructions
-# Begin working on the lab for chapter 9 (LM_Chapter9)
+# Begin working on the lab for chapter 9, 10 (LM_Chapter9, LM_Chapter10)
 
 Submission
 # Github
